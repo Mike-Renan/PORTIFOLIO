@@ -259,6 +259,21 @@ h1 {
         var(--maisEscuro);
 }
 
+footer{
+     text-align: center;
+  padding: 9px; 
+}
+.redes-sociais{
+   
+    display: block;
+    justify-content: center;  
+}
+.redes-sociais img {
+  width: 50px;
+  margin: 5px;
+  }
+
+
 @keyframes flutuar {
 
     0%,
