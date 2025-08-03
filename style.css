@@ -372,7 +372,7 @@ footer {
         border-radius: 16px;
         border: 1px solid var(--vidro);
         backdrop-filter: blur(10px);
-        background: rgba(126, 126, 126, 0.1);
+        background: rgba(156, 87, 9, 0.1);
     }
 
     .sobre-titulo {
