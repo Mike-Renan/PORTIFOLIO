@@ -182,6 +182,7 @@ h1 {
     object-fit: cover;
 }
 
+
 .Projetos-card:hover {
     box-shadow: 0 0 20px var(--primaria);
     transform: translateY(-10px) scale(1.03);
